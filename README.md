@@ -8,3 +8,4 @@
 <p>dia 04/08</p>
 <p>- terminei a atividade de LPOO do Marcelo</p>
 <p>- mexi no meu github</p>
+<p>- Fiz o relatório do Londrinense Tech</p>
