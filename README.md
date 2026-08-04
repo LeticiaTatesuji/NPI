@@ -1,4 +1,4 @@
-<h1>Cronograma semanal<\h1>
+<h1>Cronograma semanal</h1>
 
 Semana 03/08 a 07/08
 dia 03/08
