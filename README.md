@@ -8,4 +8,14 @@
 <p>dia 04/08</p>
 <p>- terminei a atividade de LPOO do Marcelo</p>
 <p>- mexi no meu github</p>
-<p>- Fiz o relatório do Londrinense Tech</p>
+<p>- fiz o relatório do Londrinense Tech</p>
+
+<p>05/08</p>
+<p>- dei monitoria para o Pensamento Computacional</p>
+<p>- fiz o relatório do Pensamento Computacional</p>
+<p>- atualizei meu portfólio</p>
+<p>- fiz meu currículo acadêmico</p>
+
+
+
+
