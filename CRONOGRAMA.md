@@ -10,7 +10,7 @@
 <p>- mexi no meu github</p>
 <p>- fiz o relatório do Londrinense Tech</p>
 
-<p>05/08</p>
+<p>dia 05/08</p>
 <p>- dei monitoria para o Pensamento Computacional</p>
 <p>- fiz o relatório do Pensamento Computacional</p>
 <p>- atualizei meu portfólio</p>
