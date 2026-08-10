@@ -23,5 +23,10 @@
 <p>- terminei a atividade do Gustavo</p>
 <p>- comecei fazer a lista de Álgebra Linear do Guilherme</p>
 
+<h2>Semana 10/08 a 14/08</h2>
+<p>dia 10/08</p>
+<p>- fiz alguns algoritmos de álgebra do projeto do Guilherme</p>
+<p>- fui dar monitoria para o Londrinense Tech</p>
+
 
 
