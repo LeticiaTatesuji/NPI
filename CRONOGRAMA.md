@@ -16,6 +16,12 @@
 <p>- atualizei meu portfólio</p>
 <p>- fiz meu currículo acadêmico</p>
 
+<p>dia 06/08</p>
+<p>- passei a tarde inteira fazendo a atividade do Gustavo</p>
+
+<p>dia 07/08</p>
+<p>- terminei a atividade do Gustavo</p>
+<p>- comecei fazer a lista de Álgebra Linear do Guilherme</p>
 
 
 
