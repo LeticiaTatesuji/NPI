@@ -28,5 +28,9 @@
 <p>- fiz alguns algoritmos de álgebra do projeto do Guilherme</p>
 <p>- fui dar monitoria para o Londrinense Tech</p>
 
+<p>dia 11/08</p>
+<p>- fiz a tarefa do guilherme</p>
+<p>- participei da abertura da incubadora</p>
+
 
 
